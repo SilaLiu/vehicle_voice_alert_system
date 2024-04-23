@@ -14,7 +14,11 @@
   <depend>tier4_api_msgs</depend>
   <depend>tier4_external_api_msgs</depend>
   <depend>tier4_hmi_msgs</depend>
-  <depend>diagnostic_updater</depend>
+  <depend>pixmoving_hmi_msgs</depend>
+  <depend>autoware_auto_vehicle_msgs</depend>
+  <depend>pix_robobus_driver_msgs</depend>
+  <depend>tier4_debug_msgs</depend>
+  <depend>sensor_msgs</depend>
 
   <export>
     <build_type>ament_python</build_type>

@@ -1,5 +1,9 @@
 # !/usr/bin/env python3
 # -*- coding: utf-8 -*-
+# author：Teddy
+# time:2023-09-07
+# update time: 2024-04-18
+# e-mail: teddy@pixmoving.net
 
 from vehicle_voice_alert_system.autoware_diagnostic import AutowareDiagnostic
 from diagnostic_msgs.msg import DiagnosticStatus
